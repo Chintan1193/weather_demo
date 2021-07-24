@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Demo</string>
+    <string name="search_city">Search City</string>
+    <string name="city_empty_msg">City cannot be empty.</string>
+    <string name="err_msg">Something went wrong.</string>
+    <string name="please_wait_">Please Wait…</string>
+</resources>
